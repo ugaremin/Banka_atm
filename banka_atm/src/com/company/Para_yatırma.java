@@ -9,7 +9,6 @@ public class Para_yatırma {
         System.out.println("*********************");
         System.out.println("PARA YATIRMA MENÜSÜ");
         System.out.println("*********************");
-        Bakiye bakiye=new Bakiye();
         Scanner input=new Scanner(System.in);
         System.out.println("YATIRMAK İSTEDİĞİNİZ TUTARI GİRİNİZ");
         int yatan=input.nextInt();

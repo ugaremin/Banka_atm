@@ -8,7 +8,6 @@ public class Para_cekme {
         System.out.println("*********************");
         System.out.println("PARA ÇEKME MENÜSÜ");
         System.out.println("*********************");
-        Bakiye bakiye=new Bakiye();
         Scanner input=new Scanner(System.in);
         System.out.println("ÇEKMEK İSTEDİĞİNİZ TUTARI GİRİNİZ");
         int cekim=input.nextInt();
